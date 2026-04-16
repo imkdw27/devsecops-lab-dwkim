@@ -1,4 +1,4 @@
 # devsecops-lab-dwkim
 DW DevSecOps hands-on lab for class
 # End message for Commit Test
-123123123
+# Changes for Commit Step
